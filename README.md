@@ -33,9 +33,9 @@
 
 ## Overview
 
-![screenshot](./ss-desktop)
+![screenshot](./ss-desktop.png)
 
-![screenshot](./ss-mobile)
+![screenshot](./ss-mobile.png)
 
 ### Built With
 
